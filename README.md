@@ -33,6 +33,3 @@ Weather-App/
 ├── script.js      # API logic and DOM handling
 └── README.md      # Project info
 
-## Screen Shoot
-
-https://github.com/navya21-codes/Weather-App/blob/main/Screenshot.png?raw=true
