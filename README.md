@@ -18,9 +18,6 @@ This project allows users to check the *current weather* and a *5-day forecast* 
 - 📱 Responsive UI using Flex/Grid
 
 
-## 🛠  Built With
-
-| HTML | CSS | JavaScript | OpenWeatherMap API |
 
 ## 🗂 Project Structure
 
@@ -31,5 +28,13 @@ Weather-App/
 ├── style.css      # Styling
 ├── script.js      # API logic and DOM handling
 └── README.md      # Project info
+
+## 🛠  Built With
+
+| HTML | CSS | JavaScript | OpenWeatherMap API |
+
+OUTPUT:
+[preview]https://raw.githubusercontent.com/navya21-codes/Weather-App/refs/heads/main/Screenshot.png
+
 
 
