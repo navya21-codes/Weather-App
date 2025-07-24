@@ -34,4 +34,4 @@ Weather-App/
 
 ## Output Preview
 
-https://raw.githubusercontent.com/navya21-codes/Weather-App/refs/heads/main/Screenshot.png
+![https://raw.githubusercontent.com/navya21-codes/Weather-App/refs/heads/main/Screenshot.png]
