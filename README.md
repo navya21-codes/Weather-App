@@ -32,6 +32,7 @@ Weather-App/
 ├── script.js      # API logic and DOM handling
 └── README.md      # Project info
 
-## 🖼 Output Preview
 
-![preview](https://raw.githubusercontent.com/navya21-codes/Weather-App/refs/heads/main/Screenshot.png)
+## Output Preview
+
+![Weather App Screenshot](https://raw.githubusercontent.com/navya21-codes/Weather-App/main/Screenshot.png)
