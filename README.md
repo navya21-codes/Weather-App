@@ -32,6 +32,6 @@ Weather-App/
 └── README.md      # Project info
 ```
 
-## Output Preview
+## 🖼 Output Preview
 
-![https://raw.githubusercontent.com/navya21-codes/Weather-App/refs/heads/main/Screenshot.png]
+![Weather App Screenshot](https://raw.githubusercontent.com/navya21-codes/Weather-App/main/Screenshot.png)
