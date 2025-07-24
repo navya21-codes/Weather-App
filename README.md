@@ -21,7 +21,6 @@ This project allows users to check the *current weather* and a *5-day forecast* 
 
 | HTML | CSS | JavaScript | OpenWeatherMap API |
 
-
 ## 🗂 Project Structure
 
 ```plaintext
@@ -31,5 +30,8 @@ Weather-App/
 ├── style.css      # Styling
 ├── script.js      # API logic and DOM handling
 └── README.md      # Project info
+```
 
-## oUTPUT:
+## Output 
+
+https://raw.githubusercontent.com/navya21-codes/Weather-App/refs/heads/main/Screenshot.png
