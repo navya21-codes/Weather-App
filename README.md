@@ -11,17 +11,17 @@ This project allows users to check the *current weather* and a *5-day forecast* 
 
 ## Key Highlights
 
-- 🌐 Search by City Name
-- 📍 Use Current Location via Geolocation API
-- 🌤 Weather Description + Icons
-- 🗓 5-Day Forecast Cards
-- 📱 Responsive UI using Flex/Grid
+- Search by City Name
+- Use Current Location via Geolocation API
+- Weather Description + Icons
+- 5-Day Forecast Cards
+- Responsive UI using Flex/Grid
 
-## 🛠  Built With
+## Built With
 
 | HTML | CSS | JavaScript | OpenWeatherMap API |
 
-## 🗂 Project Structure
+## Project Structure
 
 ```plaintext
 Weather-App/
@@ -32,6 +32,6 @@ Weather-App/
 └── README.md      # Project info
 ```
 
-## 🖼 Output Preview
+## Output Preview
 
 ![Weather App Screenshot](https://raw.githubusercontent.com/navya21-codes/Weather-App/main/Screenshot.png)
