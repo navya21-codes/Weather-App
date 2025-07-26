@@ -1,7 +1,7 @@
 
 # ⛅ Weather App
 
- ***A modern weather forecasting web app built with HTML, CSS, and JavaScript using the OpenWeatherMap API***.
+ A modern weather forecasting web app built with HTML, CSS, and JavaScript using the OpenWeatherMap API.
 
 
 ## Overview
